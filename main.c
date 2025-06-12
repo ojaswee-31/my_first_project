@@ -5,7 +5,7 @@ int main()
     printf("enter any number :");
     scanf("%d",&n);
     printf("the hexadecimal of gien number is %x",n);
-
+shut up
     return 0;
 
 
