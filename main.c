@@ -7,6 +7,7 @@ int main()
     printf("the hexadecimal of gien number is %x",n);
 
     return 0;
+    shut up
 
 
 }
